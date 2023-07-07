@@ -1,15 +1,15 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
-    },
-    "auditLog": "/media/dipto/Development/Web Dev Course/university-managment/university-managment-be/logs/winston/error/.869f69e426ace1ac753b08b1b019aaf59ed141d6-audit.json",
-    "files": [
-        {
-            "date": 1688723546386,
-            "name": "/media/dipto/Development/Web Dev Course/university-managment/university-managment-be/logs/winston/error/2023-07-07-15-error.log",
-            "hash": "202f12a61f58af853926b178a9a0d8bd60001ebd56db803675c85017a0c2b984"
-        }
-    ],
-    "hashType": "sha256"
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "/media/dipto/Development/Web Dev Course/university-managment/university-managment-be/logs/winston/error/.869f69e426ace1ac753b08b1b019aaf59ed141d6-audit.json",
+  "files": [
+    {
+      "date": 1688723546386,
+      "name": "/media/dipto/Development/Web Dev Course/university-managment/university-managment-be/logs/winston/error/2023-07-07-15-error.log",
+      "hash": "202f12a61f58af853926b178a9a0d8bd60001ebd56db803675c85017a0c2b984"
+    }
+  ],
+  "hashType": "sha256"
 }
