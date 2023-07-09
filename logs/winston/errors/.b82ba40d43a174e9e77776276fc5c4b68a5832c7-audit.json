@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/media/dipto/Development/Web Dev Course/university-managment/university-managment-be/logs/winston/errors/.b82ba40d43a174e9e77776276fc5c4b68a5832c7-audit.json",
+    "files": [
+        {
+            "date": 1688924473868,
+            "name": "/media/dipto/Development/Web Dev Course/university-managment/university-managment-be/logs/winston/errors/phu-2023-09-07-23-error.log",
+            "hash": "1178476a31b78aa76bf3fd5d5ee944ccde526ff5e91c01efe740af920a05ea01"
+        }
+    ],
+    "hashType": "sha256"
+}
