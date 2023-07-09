@@ -9,6 +9,11 @@
             "date": 1688924473868,
             "name": "/media/dipto/Development/Web Dev Course/university-managment/university-managment-be/logs/winston/errors/phu-2023-09-07-23-error.log",
             "hash": "1178476a31b78aa76bf3fd5d5ee944ccde526ff5e91c01efe740af920a05ea01"
+        },
+        {
+            "date": 1688926584101,
+            "name": "/media/dipto/Development/Web Dev Course/university-managment/university-managment-be/logs/winston/errors/phu-2023-10-07-00-error.log",
+            "hash": "5e8e6b959cecd28ff1409d2331795e29fb6a91dd32b0847b7f17bbdc3b6a834a"
         }
     ],
     "hashType": "sha256"
